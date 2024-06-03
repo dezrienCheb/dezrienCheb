@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dezrienCheb
+- 👀 I’m interested in silly games and such
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: He/Him
+- 📫 How to reach me ...
